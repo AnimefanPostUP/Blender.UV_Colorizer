@@ -5,18 +5,30 @@ but heavly Edited, Fixed were Added, aswell as a more Complex UI and Tools
 
 
  
-![image](https://github.com/AnimefanPostUP/Blender.UV_Colorizer/assets/93488236/a985df5a-34b4-41f2-90b7-a87bd2dc0ef2)
+
 
 ## Overview:
 	
->Setup and Manage Different Texturesheets, aswell as Load Colorsheets in any Size, 
->the Addon will Pick the Colors based on the Defined Tilesize
+>Just take a Look
+>...
 <br />
+
+ &emsp;
+ 
+## Presets:
+	
+>Load A Texture, Define Tilesize and Save or Load Presets even containing a Reduced Image (Not recommended due to Lag!) or the Source Image
+>...
+<br />
+
 
 <details>
 <summary>Images</summary>
+	
 ![image](https://github.com/AnimefanPostUP/Blender.UV_Colorizer/assets/93488236/548803a7-c249-4ffe-b841-05cb0f2ee2eb)
+![image](https://github.com/AnimefanPostUP/Blender.UV_Colorizer/assets/93488236/a985df5a-34b4-41f2-90b7-a87bd2dc0ef2)	
 ![image](https://github.com/AnimefanPostUP/Blender.UV_Colorizer/assets/93488236/7768eeb0-bb4c-4cba-9523-64af4da95cbe)
+
 </details>
 
  &emsp;
