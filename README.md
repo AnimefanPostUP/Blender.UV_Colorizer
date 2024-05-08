@@ -67,7 +67,7 @@ Tested for Blender 4.0
  &emsp;
 
  
-###Auto Material Setter
+### Auto Material Setter
 >Make the Tool Apply a Defaulttexture Automatically
 <details>
 <summary>Images</summary>
