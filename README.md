@@ -22,8 +22,8 @@ Tested for Blender 4.0
  
 ## Presets:
 	
->Load A Texture, Define Tilesize and Save or Load Presets even containing a Reduced Image (Not recommended due to Lag!) or the Source Image
->...
+Load A Texture, Define Tilesize and Save or Load Presets even containing a Reduced Image (Not recommended due to Lag!) or the Source Image
+...
 <br />
 
 
@@ -39,7 +39,7 @@ Tested for Blender 4.0
  &emsp;
 
  ### Save Export Load
- >Save Export and Load Presets that Contain the Settings and Even the Colors of the Image
+ Save Export and Load Presets that Contain the Settings and Even the Colors of the Image
  <details>
 <summary>Images</summary>
 <br />
@@ -55,7 +55,7 @@ Tested for Blender 4.0
 
 
 ### Colorgroups
->Manage Colorgroups inside a Palette and Name Them
+Manage Colorgroups inside a Palette and Name Them
 <details>
 <summary>Images</summary>
 <br />
@@ -71,7 +71,7 @@ Tested for Blender 4.0
 
  
 ### Auto Material Setter
->Make the Tool Apply a Defaulttexture Automatically
+Make the Tool Apply a Defaulttexture Automatically
 <details>
 <summary>Images</summary>
 ><br />
@@ -85,7 +85,7 @@ Tested for Blender 4.0
 
 
  ### Menus
- >Access Colors and Tools from 2 Different Menus
+ Access Colors and Tools from 2 Different Menus
 <details>
 <summary>Images</summary>
 ><br />
@@ -117,7 +117,7 @@ Tested for Blender 4.0
 
 
 ### Menus 
->Set Color based on the Current Active Selected Face
+Set Color based on the Current Active Selected Face
 <details>
 <summary>Images</summary>
 ><br />
@@ -131,7 +131,7 @@ Tested for Blender 4.0
 
 
 ### ColorShifting
->Enable AddToShift on a Colorgroup and Switch back and forth in the Selected Colors
+Enable AddToShift on a Colorgroup and Switch back and forth in the Selected Colors
 <details>
 <summary>Images</summary>
 ><br />
@@ -145,7 +145,7 @@ Tested for Blender 4.0
 
 
 ###Select By Active#
->Select by the Color of the Current Active Face
+Select by the Color of the Current Active Face
 <details>
 <summary>Images</summary>
 ><br />
