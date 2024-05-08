@@ -6,6 +6,9 @@ but heavly Edited, Fixed were Added, aswell as a more Complex UI and Tools
 Tested for Blender 4.0
  
 
+> [!NOTE]
+> Addon is still WIP
+	
 
 ## Overview:
 
@@ -152,6 +155,3 @@ Tested for Blender 4.0
 </details>
 
 
-> [!NOTE]
-> Addon is still WIP
-	
