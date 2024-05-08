@@ -3,7 +3,7 @@
 The addon is based on https://github.com/RouBroeck/UV-Colorize from Rouven Bröckelmann
 but heavly Edited, Fixed were Added, aswell as a more Complex UI and Tools
 
-
+Tested for Blender 4.0
  
 
 
